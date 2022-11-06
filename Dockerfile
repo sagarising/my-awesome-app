@@ -1,3 +1,3 @@
-FROM ubuntu:2.0
+FROM ubuntu:3.0
 CMD ["echo", "image created"]
 
