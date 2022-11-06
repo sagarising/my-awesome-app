@@ -1,3 +1,3 @@
 FROM ubuntu:3.0
-CMD ["echo", "image created"]
+CMD ["echo", "image created successfully"]
 
