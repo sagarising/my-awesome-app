@@ -1,2 +1,2 @@
-FROM ubuntu:4.0
+FROM ubuntu:5.0
 CMD ["echo", "image created successfully!"]
