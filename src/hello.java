@@ -1,3 +1,5 @@
-# Enable login
-# Enable login facebook
-# do some changes for logging
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
